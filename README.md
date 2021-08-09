@@ -1,4 +1,4 @@
-# anonymous-message-api
+# anonymous-message-api never gonna give you up
 A nice anonymous message api (Uses Flask's restful api)
 
 ## How it works:
