@@ -1,4 +1,4 @@
-# flask-messaging-api
+# anonymous-message-api
 A nice anonymous message api (Uses Flask's restful api)
 
 ## How it works:
