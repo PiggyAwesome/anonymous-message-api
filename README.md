@@ -5,7 +5,7 @@ A nice anonymous message api (Uses Flask's restful api)
 
 ### 1. The user send a `put` request to your api server:
 
-Required fields: `newMessage`sudo apt-key add winehq.key
+Required fields: `newMessage`
 
 Content type: `json`
 
